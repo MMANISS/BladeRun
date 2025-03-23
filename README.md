@@ -1,2 +1,2 @@
 # BladeRun
-Игра на Unity
+2D - платформер на Unity
